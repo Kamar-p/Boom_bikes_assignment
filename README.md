@@ -11,7 +11,7 @@
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
-* [Contact](# Contact)
+
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
